@@ -2,7 +2,6 @@
 
 **MySQL is open source database management software, helping to store, organize, and retrieve data. In the process of using MySQL, users need to master a few common and important commands. For each command, before executing, the user needs to log in to MySQL with the root account (MySQL root, not the VPS management root account) or an account with full rights.**
 
-COPYRIGHT : NHANHOA (Copyright © 2002 – 2021 Nhan Hoa Software Company. All Rights Reserved)
 
 **All commands below are operated by the instructor on a CentOS VPS.**
 
@@ -143,3 +142,6 @@ mysqldump --no-data --databases databasename1 databasename2 databasename3 > stru
 
 Backup certain tables:
 mysqldump --add-drop-table -u username -pmypass databasename table_1 table_2 > databasebackup.sql
+
+
+**COPYRIGHT : NHANHOA (Copyright © 2002 – 2021 Nhan Hoa Software Company. All Rights Reserved)**
