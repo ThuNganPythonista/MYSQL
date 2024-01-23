@@ -2,6 +2,8 @@
 
 **MySQL is open source database management software, helping to store, organize, and retrieve data. In the process of using MySQL, users need to master a few common and important commands. For each command, before executing, the user needs to log in to MySQL with the root account (MySQL root, not the VPS management root account) or an account with full rights.**
 
+**COPYRIGHT : Nhan Hoa Software Company**
+
 
 **All commands below are operated by the instructor on a CentOS VPS.**
 
